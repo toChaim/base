@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Better Living Games",
   "main": "index.js",
-  "repository": "https://github.com/toChaim/BLG.git",
+  "repository": "https://github.com/toChaim/base.git",
   "author": "Chaim Finkelman <toChaim@gmail.com>",
   "license": "UNLICENSED",
   "devDependencies": {
