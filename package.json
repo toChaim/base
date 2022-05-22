@@ -1,7 +1,7 @@
 {
-  "name": "better-living-games",
+  "name": "basic",
   "version": "1.0.0",
-  "description": "Better Living Games",
+  "description": "basic node react app",
   "main": "index.js",
   "repository": "https://github.com/toChaim/base.git",
   "author": "Chaim Finkelman <toChaim@gmail.com>",

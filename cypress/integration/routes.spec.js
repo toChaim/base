@@ -12,8 +12,8 @@ describe('base test', () => {
 });
 
 describe('check routes', () => {
-  it('/', () => {
-    cy.request({ url: 'http://localhost:5000/' }).then((resp) => {
+  it('/api', () => {
+    cy.request({ url: 'http://localhost:3001/api' }).then((resp) => {
       expect(resp.status).to.eq(200)
     });
   });
