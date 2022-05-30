@@ -13,8 +13,8 @@
     "cypress:open": "cypress open",
     "cypress:run": "cypress run",
     "start": "node ./api/dist/index.js",
-    "heroku-prebuild": "yarn --cwd ./api/ install",
-    "heroku-postbuild": "yarn --cwd ./api/ run rebuild"
+    "install": "yarn --cwd ./api/ install",
+    "build": "yarn --cwd ./api/ build"
   },
   "engines": {
     "node": "16"
